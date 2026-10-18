@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local IDE and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
